@@ -1,0 +1,15 @@
+{
+  "name": "static-resume-builder",
+  "version": "1.0.0",
+  "description": "this is a simple and static resume.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasnain Abass",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.2.2"
+  }
+}
